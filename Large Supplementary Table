@@ -1,6 +1,0 @@
-Supplementary Tables:
-Suppl. Table 1b -> Input on MetaVolcano for metanalysis
-Suppl. Table 5a -> Input data for differential expression analysis with counts and metadata from TCGA
-Suppl. Table 5c -> Input and output data for TCGA DESeq2 analysis
-Suppl. Table S3a -> Result DEGs from differential expression analysis
-Suppl. Table S3b -> Input genes resulted from differential express anaysis, to be enriched by padj < 0.05
